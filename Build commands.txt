@@ -1,0 +1,5 @@
+g++ -c main.cpp -Wall -Wpedantic -Wextra
+g++ -c units.cpp -Wall -Wpedantic -Wextra
+g++ -c board.cpp -Wall -Wpedantic -Wextra
+g++ -c play.cpp -Wall -Wpedantic -Wextra
+g++ -o game.exe main.o units.o board.o play.o 

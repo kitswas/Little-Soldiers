@@ -1,0 +1,30 @@
+                                                 |                                                 |
+ Knight                                          | Pikeman                                         |
+                                                 |                                                 |
+   Attack   : 2                                  |  Attack   : 3                                   |
+   Defence  : 2                                  |  Defence  : 3                                   |
+   Movement : 3                                  |  Movement : 1                                   |
+   Health   : 5                                  |  Health   : 5                                   |
+                                                 |                                                 |
+   Trait    : Charge                             |  Trait    : Counter                             |
+            Attack + No of squares moved         |           Causes 1 damage to the attacking      |
+                                                 |           unit if alive after taking damage     |
+                                                 |                                                 |
+                                                 |                                                 |
+ "For Glory! To Victory!"                        | "Come. Let's tear away at each other."          |
+_________________________________________________|_________________________________________________|
+                                                 |                                                 |
+ Rogue                                           | Swordsman                                       |
+                                                 |                                                 |
+   Attack   : 4                                  |  Attack   : 3                                   |
+   Defence  : 1                                  |  Defence  : 2                                   |
+   Movement : 2                                  |  Movement : 2                                   |
+   Health   : 5                                  |  Health   : 5                                   |
+                                                 |                                                 |
+   Trait    : Mano-a-Mano                        |  Trait    : Penetrate                           |
+            Deals double damage to the           |           Negates opponent's defence            |
+            victim when there is no other        |                                                 |
+            unit in the vicinity                 |                                                 |
+                                                 |                                                 |
+ "Hehe...little kids should not go out alone..." | "Nobody can block my sword. NO ONE!!!"          |
+_________________________________________________|_________________________________________________|

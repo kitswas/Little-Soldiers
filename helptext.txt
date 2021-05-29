@@ -1,0 +1,45 @@
+Welcome Players,
+In this section you will find all that you need to know about the game.
+
+
+*Controls*:
+
+Follow on-screen instructions.
+Keep CAPS LOCK on while playing the game.
+Press Enter to send your input to the program.
+
+
+*How to play*:
+
+The game takes place on a 9 x 9 Board. The players make their moves alternately.
+The screen is refreshed every time after both players have made their move.
+
+You are required to place your units on the board when the game starts.
+The Opponent's formation mirrors yours.
+
+Units move either horizontally or vertically. You can only move your character upto the limits of the board.
+Details of Units are displayed below the board.
+
+Your objective is to kill all units of your opponent to win the game.
+
+A Unit moves to the destination if within range of its movement and is not occupied by another Unit of the same player.
+If not, it moves to the destination, hits the Opponent's Unit and takes a step back if the defender is still alive.
+
+
+*Tips*: 
+
+Each type of Unit has a unique Trait.
+Enable Unit Traits in Setting for a more detailed game.
+
+Check out the Character Cards for something interesting.
+
+
+*Settings*:
+
+Available game engines:-
+ 
+human - Manual control.
+randomAI - Randomly chooses any move legal for the player. [Difficulty -> Easy]
+greedyAI - Makes the move which bring the largest immediate benefit to the player. [Difficulty -> Medium]
+minimaxAI - Drives the minimax algorithm. [Difficulty -> Hard]
+
