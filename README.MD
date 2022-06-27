@@ -9,7 +9,7 @@ See the [Problem Statement](./Problem_Statement.pdf).
 
 ## How to Build
 
-You need GCC on your system.  
+You need GCC on your system. [Download and install MinGW](https://www.mingw-w64.org/downloads/) on Windows.  
 Open the file [Build commands.txt](./Build_commands.txt). Copy and paste everything on your console.  
 Then execute the generated file `game.exe`.
 
