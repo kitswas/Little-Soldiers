@@ -306,7 +306,6 @@ void menu()/**shows main menu*/
 			case '3':
 				showCharacterCards();
 				break;
-				break;
 			case '4':
 				settings();
 				break;

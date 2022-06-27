@@ -48,7 +48,7 @@ _See: <https://docs.microsoft.com/en-us/windows/console/console-virtual-terminal
 
 The settings are stored in the settings.ini file (generated on first-run).  
 I advise against directly modifying the configuration file.  
-In case of unintended modifications or program errors, delete the file and you are good to go.  
+In case of unintended modifications or program errors, delete the file, and you are good to go.  
 _Default values will be used in such a case._
 
 The macro STEPS in `play.cpp` defines the number of moves the minimax algorithm will calculate in advance to find the optimal path.  
@@ -56,4 +56,4 @@ Increase it for a more challenging game.
 Higher values lead to more resource consumption and lower execution speed.  
 
 AI vs AI matches are possible, but not recommended.  
-This is because some of the assumptions made about the player's behaviour are invalid for an AI.  
+This is because some assumptions made about the player's behaviour are invalid for an AI.  
