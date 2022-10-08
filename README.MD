@@ -2,6 +2,12 @@
 
 A game with AI.
 
+## Screenshots
+
+![Home screen](https://user-images.githubusercontent.com/90329875/194708228-82b76bf0-baf1-4d56-8fc4-6df75faddcff.png)
+![Character cards](https://user-images.githubusercontent.com/90329875/194708243-31307944-9a2b-4c32-b558-2bdbef672009.png)
+![A game in progress](https://user-images.githubusercontent.com/90329875/194708369-d1907632-ae68-4705-a84b-a6899c5cb98c.png)
+
 ## Motivation
 
 It was for one of my undergraduate courses.  
