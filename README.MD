@@ -1,7 +1,5 @@
 # Little Soldiers
 
-A game with AI.
-
 ## Screenshots
 
 ![Home screen](https://user-images.githubusercontent.com/90329875/194708228-82b76bf0-baf1-4d56-8fc4-6df75faddcff.png)
